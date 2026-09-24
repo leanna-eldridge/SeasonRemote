@@ -1,0 +1,14 @@
+{
+  "$schema": "https://moddbcdn.vintagestory.at/schema/modinfo.latest.json",
+  "type": "code",
+  "modid": "seasonremote",
+  "name": "Season Remote",
+  "description": "This mod enables you to pause the changing of the seasons at will.",
+  "authors": [ "ihaskittykat" ],
+  "version": "1.0.1",
+  "dependencies": {
+    "game": "1.22.7",
+    "survival": "1.22.7"
+  },
+  "website": "https://github.com/leanna-eldridge/SeasonRemote"
+}
