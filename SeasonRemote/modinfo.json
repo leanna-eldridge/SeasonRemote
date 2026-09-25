@@ -5,10 +5,10 @@
   "name": "Season Remote",
   "description": "This mod enables you to pause the changing of the seasons at will.",
   "authors": [ "ihaskittykat" ],
-  "version": "1.0.1",
+  "version": "1.0.2",
   "dependencies": {
-    "game": "1.22.7",
-    "survival": "1.22.7"
+    "game": "*",
+    "survival": "*"
   },
   "website": "https://github.com/leanna-eldridge/SeasonRemote"
 }

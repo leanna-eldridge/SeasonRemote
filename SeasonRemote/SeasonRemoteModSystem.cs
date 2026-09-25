@@ -8,7 +8,7 @@ using Vintagestory.API.Server;
     "seasonremote",
     Authors = new[] { "ihaskittykat" },
     Description = "This mod enables you to pause the changing of the seasons at will.",
-    Version = "1.0.1"
+    Version = "1.0.2"
 )]
 
 namespace SeasonRemote;
